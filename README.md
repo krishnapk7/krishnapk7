@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=krishnapk7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=krishnapk7&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **krishnapk7/krishnapk7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
