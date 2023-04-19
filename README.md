@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnapk7&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=krishnapk7)](https://git.io/streak-stats)
 
 <!--
