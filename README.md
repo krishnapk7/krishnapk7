@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=krishnapk7&theme=dark&background=000000)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapk7&layout=compact)
 
 ### Watch a Snake eat my Contribution
 ![snake gif](https://github.com/krishnapk7/krishnapk7/blob/output/github-contribution-grid-snake-dark.svg)
